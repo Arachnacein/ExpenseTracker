@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\src"
+    "\\src",
+    "\\src\\Expensetracker"
   ],
-  "SelectedNode": "\\src",
+  "SelectedNode": "\\src\\Expensetracker",
   "PreviewInSolutionExplorer": false
 }
