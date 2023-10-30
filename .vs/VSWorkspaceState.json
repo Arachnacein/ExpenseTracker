@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\src"
   ],
-  "SelectedNode": "\\C:\\repos\\ExpenseTracker",
+  "SelectedNode": "\\src",
   "PreviewInSolutionExplorer": false
 }
